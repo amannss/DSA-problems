@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amannss/DSA-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amannss/DSA-problems/tree/master/0001-two-sum) |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -44,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
+## String
+|  |
+| ------- |
+| [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 <!---LeetCode Topics End-->
