@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amannss/DSA-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
