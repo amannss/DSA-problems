@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
 ## Union Find
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
