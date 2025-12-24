@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/amannss/DSA-problems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
+| [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
+| [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
